@@ -1,0 +1,1 @@
+cfg = "7687440802:AAGP0afLd0bRa2-lyU0NaKsJPrB-ZXGhwfQ"
